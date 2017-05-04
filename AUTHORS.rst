@@ -1,7 +1,7 @@
 Authors
 -------
 
-* Eric (New contributor)
-* Anthony 
+* Pradeep B Y (pradeep.yogesh@dataweave.com)
+ 
 
 
